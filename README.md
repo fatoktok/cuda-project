@@ -1,5 +1,3 @@
-# Image Rotation using NVIDIA NPP with CUDA
-
 ## Code Organization
 
 ```bin/```
